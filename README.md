@@ -1,6 +1,6 @@
 # INTEGRATING PAYPAL PAYMENT WITH JAVASCRIPT
 
-This is a code that guides you on how to create/intergrate paypal Payment method with Javascript
+This is a code that guides you on how to intergrate paypal Payment method with Javascript into your application
 
 ### Requirements
 
